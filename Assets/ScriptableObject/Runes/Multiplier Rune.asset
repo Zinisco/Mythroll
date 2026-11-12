@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2bd081c11660a341ae897f464fe3882, type: 3}
+  m_Name: Multiplier Rune
+  m_EditorClassIdentifier: Assembly-CSharp::RuneData
+  runeName: Multiplier Rune
+  description: "Gain an additional \xD71 multiplier when you have at least two matching
+    groups"
+  icon: {fileID: 0}
+  effectType: 5
+  effectValue: 1
